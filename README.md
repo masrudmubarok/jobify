@@ -1,1 +1,2 @@
 # jobify
+MERN Stack
