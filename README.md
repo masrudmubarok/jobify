@@ -1,2 +1,2 @@
-# jobify
+# Jobify
 MERN Stack
